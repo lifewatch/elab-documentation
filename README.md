@@ -1,6 +1,6 @@
 # e-lab documentation
 
-This repo contains the user manual of the [www.lifewatch.be/e-lab](https://www.lifewatch.be/data-services/)
+This repo contains the user manual of the [LifeWatch e-lab](https://www.lifewatch.be/data-services/)
 
 
 ----
