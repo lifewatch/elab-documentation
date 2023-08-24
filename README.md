@@ -9,5 +9,6 @@ A user can select several data services (taxonomic, geographic, thematic, etc.) 
 The use of the LifeWatch web services is explained in a user guide (this repo) and demonstrated in a few use cases.
 
 ----
-The documentation uses [github pages](https://docs.github.com/en/pages) with Jekyll theme [Just the Docs](https://just-the-docs.github.io/just-the-docs/)
+## Contributing
+The documentation uses [github pages](https://docs.github.com/en/pages) with Jekyll theme [Just the Docs](https://just-the-docs.github.io/just-the-docs/). Please read here the documentation of the theme to know how to change things on the documentation webpages: https://just-the-docs.github.io/just-the-docs/
 
