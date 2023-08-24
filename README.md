@@ -2,7 +2,7 @@
 
 This repo contains the user manual of the [LifeWatch e-lab](https://www.lifewatch.be/data-services/).
 
-This online application allows users to standardize, analyze and visualize their data, making use of web services built on top of internal and external reference databases. 
+The e-lab is a virtual lab, an online application allows users to standardize, analyze and visualize their data, making use of web services built on top of internal and external reference databases. 
 
 A user can select several data services (taxonomic, geographic, thematic, etc.) and run them successively through a straightforward user interface. The LifeWatch.be web services can be used in a concatenated way, i.e. the output of one web service is the input for the next web service. Establishing such workflows helps solving (complicated) biological questions.
 
