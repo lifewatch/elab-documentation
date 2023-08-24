@@ -1,6 +1,7 @@
 ---
 title: The LifeWatch E-lab
 layout: home
+nav_order: 0
 ---
 
 The LifeWatch e-lab online application allows users to standardize, analyze and visualize their data, making use of web services built on top of internal and external reference databases.
