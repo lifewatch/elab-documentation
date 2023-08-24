@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: LifeWatch e-lab user manual
+description: A quick introdution to the LifeWatch e-lab
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://lifewatch.github.io/elab-documentation
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
