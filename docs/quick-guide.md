@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Quick Guide
 nav_order: 1
 ---
 
