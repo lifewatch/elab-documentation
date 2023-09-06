@@ -8,3 +8,7 @@ nav_order: 1
 \#TL;DR
 
 I want to add a screenshot of the new e-lab ![the new e-lab interface](../../assets/images/elab_interface.PNG)
+
+## Header 2 
+Where is the picture **bold** *italics* ![insert pic](
+
