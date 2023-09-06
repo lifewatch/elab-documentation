@@ -11,26 +11,38 @@ Through this interactive section of the LifeWatch.be portal users can upload the
 This page helps you choose the right web services by applying different filters. 
 
 ## Discover use cases 
+Use cases are examples of how you can use services to show and analyze your data. They will give you a set up and which steps to follow to use the services. 
 
+## Run services 
+On this page you are able to upload your own file or to try out a marine or terrestrial demo file. 
+To upload your own data files to the e-Lab, you will require a **log-in** and password. You can obtain these freely by registering here. 
+Without log-in and password you can use a marine or terrestrial demo file to discover the functionalities of the e-Lab.
 
-1. Upload your file
-To upload your own data files to the e-Lab, you will require a log-in and password. You can obtain these freely by registering here.
+### Upload your own data file
 
-Note: without log-in and password you can use a marine or terrestrial demo file to discover the functionalities of the e-Lab.
+- Prepare your data file for upload. Allowed file types: Plain text [TXT], Plain text [CSV], Excel [XLS] and Excel [XLSX]. 
+- Click on "Browse" or "Choose file" (depending on your browser) to upload your file.
+- This will open the file explorer on your PC.
+- Select your file.
 
-Prepare your data file for upload. Allowed file types: Plain text [TXT], Plain text [CSV], Excel [XLS] and Excel [XLSX]. 
+**Heading**: use the flag box to indicate whether your first row contains the column names or not.
 
-Note: All web services (except one, see further) require the uploaded data to be in the standard LifeWatch data format, based on and compatible with the OBIS Schema and Darwin Core. In SECTION 2 of this user guide you can find a description of this LifeWatch data format, some examples, and an overview of the required fields for every web service. The only exception is the "Check OBIS file" web service, which requires the uploaded data to be in the OBIS Schema format, instead of the LifeWatch data format.
+**Column delimiter**: select the relevant column delimiter: Tab, Semicolon (;), Comma (,) or Vertical bar (|)
 
-Click on "Browse" or "Choose file" (depending on your browser) to upload your file. This will open the file explorer on your PC. Select your file.
+**Decimal symbol**: select the relevant decimal symbol: Comma (,) or Point (.)
 
-Heading: use the flag box to indicate whether your first row contains the column names or not.
+**Data format**: select "lifewatch" for all web services (except for "Check OBIS file"); only select "obis" for the "Check OBIS file" web service (see above).
 
-Column delimiter: select the relevant column delimiter: Tab, Semicolon (;), Comma (,) or Vertical bar (|)
+### Select services
 
-Decimal symbol: select the relevant decimal symbol: Comma (,) or Point (.)
+Select an option between 
+- **Predefined use cases** which are sets of webservices
+- **Custom webservices** from the list described below 
 
-Data format: select "lifewatch" for all web services (except for "Check OBIS file"); only select "obis" for the "Check OBIS file" web service (see above).
+## Results 
+
+## User Guide 
+
 
 
 
