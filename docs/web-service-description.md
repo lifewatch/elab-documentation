@@ -86,7 +86,7 @@ Indicates if a given location is situated within the Flemish Ecological Network,
 
 ## Geographical services - Total biological valuation:
 ### Terrestrial Biological Valuation (v22) 
-Returns the terrestrial biological value of a location in the Flemish Region, based on Latitude and Longitude in the uploaded data file and the Biological Valuation Map (version22). The Biological Valuation Map is a uniform field-driven survey of the land cover and vegetation in the Flemish Region.
+Returns the terrestrial biological value of a location in the Flemish Region, based on Latitude and Longitude in the uploaded data file and the Biological Valuation Map (version 22). The Biological Valuation Map is a uniform field-driven survey of the land cover and vegetation in the Flemish Region.
 
 ### Marine Biological Valuation Map for the Belgian Part of the North Sea
 Returns the total marine biological value of a location in the Belgian Continental Shelf, based on Latitude and Longitude in the uploaded data file and the Biological Valuation Map for the Belgian Continental Shelf (BWZee) produced in 2007.
@@ -135,7 +135,7 @@ The service matches your taxon list with the Global Names Index (GNI), based on 
 ### Index Fungorum (IF)
 The service matches your taxon list with the Index Fungorum (IF) database, based on the ScientificName in the uploaded data file.
 
-### the International Plant Names Index (IPNI)
+### International Plant Names Index (IPNI)
 The service matches your taxon list with the International Plant Names Index (IPNI), based on the ScientificName in the uploaded data file.
 
 ### World Register of Marine Species (WoRMS)
