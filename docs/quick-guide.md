@@ -11,7 +11,7 @@ This Quick guide summarizes how to get the best out of e-lab. If something does 
 If you are already familiar with e-lab, the quickest way to get started is through the button **Run Services**. 
 
 - Upload your own file as custom
-- Select the services you need eg. Show on map, Taxon match (see below) 
+- Select the [services](docs/web-services-description.md) you need eg. Show on map, Taxon match.
 - Validate and order the services you previously selected 
 - Select columnn names that correspond to the data
 - Run the job 
