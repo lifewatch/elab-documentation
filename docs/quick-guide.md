@@ -7,6 +7,8 @@ nav_order: 1
 # Quick Guide through the e-lab
 This Quick guide summarizes how to get the best out of e-lab. If something does not work or if you need more information, please refer back to the extented user guide on the next page.
 
+![e-lab screenshot](/assets/images/elab_interface.PNG)
+
 ## Run Services 
 If you are already familiar with e-lab, the quickest way to get started is through the button **Run Services**. 
 
