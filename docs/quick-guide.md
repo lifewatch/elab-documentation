@@ -7,7 +7,7 @@ nav_order: 1
 # Quick Guide through the e-lab
 \#TL;DR
 
-I want to add a screenshot of the new e-lab ![the new e-lab interface](../../assets/images/elab_interface.PNG)
+I want to add a screenshot of the new e-lab ![the new e-lab interface](../../assets/images/elab_interface.png)
 
 ## Header 2 
 Where is the picture **bold** *italics* ![insert pic](
