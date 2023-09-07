@@ -48,7 +48,8 @@ When you click "Next", you are redirected to the preview screen. Make sure that 
 
 The following message appears:
 
-![Job done](https://github.com/lifewatch/elab-documentation/assets/144227108/52bb3351-143b-4813-aba2-02d4d3464371)
+![Jobs done](https://github.com/lifewatch/elab-documentation/assets/144227108/eb31f8aa-e0a3-4ae9-82e7-ad27457b4dd7)
+
 
 Click on "Results". Your result file will appear at the top of the results table. The result report gives an overview of the requested web services, the results per web service, any errors that might have occurred during the process, and a legend of the added fields in the result file.
 
