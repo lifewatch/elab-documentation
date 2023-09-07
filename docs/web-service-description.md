@@ -120,7 +120,7 @@ These web services return the name and code of administrative boundaries, such a
 | **Reverse taxon match by ITIS TSN**        | Returns the Aphia record (scientific name, taxonomic status, etc.) based on the Taxonomic Serial Number (TSN) of the Integrated Taxonomic Information System (ITIS) in the uploaded data file. |
 | **Reverse taxon match by AphiaID**           | Returns the Aphia record (scientific name, taxonomic status, etc.) based on the AphiaID of the World Register of Marine Species (WoRMS) in the uploaded data file.|
 
-## Taxon match services
+## Taxon match services 🦦
 
 | Service        | Explanation          |
 |:-------------|:------------------|
@@ -135,7 +135,7 @@ These web services return the name and code of administrative boundaries, such a
 | **Taxon match Interim Register of Marine and Nonmarine Genera (IRMNG)**           | The service matches your taxon list with the Interim Register of Marine and Nonmarine Genera (IRMNG), based on the ScientificName in the uploaded data file.|
 | **Catalogue of Life (CoL)**           | The service matches your taxon list with the Catalogue of Life (CoL), based on the ScientificName in the uploaded data file.|
 
-## Taxon match services WoRMS Regional Species Databases
+## Taxon match services WoRMS Regional Species Databases 🐙
 
 | Service        | Explanation          |
 |:-------------|:------------------|
@@ -148,7 +148,7 @@ These web services return the name and code of administrative boundaries, such a
 | **Taxon match World Register of Marine Introduced Species (WRIMS)** | The service matches your taxon list with the World Register of Marine Introduced Species (WRIMS), based on the ScientificName in the uploaded data file.|
 | **Taxon match World Register of marine Cave Species (WoRCS)**        | The service matches your taxon list with the World Register of marine Cave Species (WoRCS), based on the ScientificName in the uploaded data file. |
 
-## Taxon observations
+## Taxon observations 
 
 | Service        | Explanation          |
 |:-------------|:------------------|
