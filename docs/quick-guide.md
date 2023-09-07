@@ -8,7 +8,7 @@ nav_order: 1
 This Quick guide summarizes how to get the best out of e-lab. If something does not work or if you need more information, please refer back to the extented user guide on the next page.
 
 elab_interface.PNG
-![blablabla]([https://raw.githubusercontent.com//assets/images/elab_interface.PNG](https://raw.githubusercontent.com/lifewatch/elab-documentation/main/assets/images/elab_interface.PNG))
+![blablabla](https://raw.githubusercontent.com/lifewatch/elab-documentation/main/assets/images/elab_interface.PNG)
 
 
 ![e-lab screenshot]()
