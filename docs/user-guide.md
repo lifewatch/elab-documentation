@@ -20,7 +20,6 @@ Use cases are examples of how you can use services to show and analyze your data
 ## Run services 
 On this page you are able to **upload your _own file_** or to try out a **_marine or terrestrial_ demo file**. 
 
-> [!NOTE]
 > To upload your own data files to the e-Lab, you will require a **log-in** and password. You can obtain these freely by clicking on the 'Log In' Icon on the top right side of your screen. Choose the 'Sign In' option and follow the steps. Without log-in and password you can use a marine or terrestrial demo file to discover the functionalities of the e-Lab.
 
 ### Upload your own data file
@@ -61,7 +60,6 @@ The image below shows the services selected for Use Case 4 on the Demo file.
 ### Confirm columns
 When you click “Next”, you are redirected to the preview screen. Make sure that every column name from the uploaded file corresponds with a column name from the pick list. Click ‘Confirm’.
 
-> [!NOTE]
 > Note: if this step does not work, try on a different browser (Firefox, Google Chrome, … )
 
 ### Run job
