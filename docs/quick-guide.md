@@ -23,7 +23,7 @@ If you are already familiar with e-lab 🤝, the quickest way to get started is 
 ✅ Run the job
 
 ## Results
-Here you can find all of your current and previous 📈results📈
+Here you can find all of your current and previous results📈
 
 ![Screenshot (12)](https://github.com/lifewatch/elab-documentation/assets/144227108/87edce18-2c26-4e7b-ac36-15646ccc2fa7)
 
