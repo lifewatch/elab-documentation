@@ -85,6 +85,3 @@ Click on “Results”. Your result file will appear at the top of the results t
 Here you can find the previous jobs submitted with their original file and their job status 📈
 
 ![Screenshot (12)](https://github.com/lifewatch/elab-documentation/assets/144227108/19e7cbe0-b797-43e8-839b-0f3c16cedf28)
-
-## User Guide 
-📍This is the link to the document you are reading right now.
