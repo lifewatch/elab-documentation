@@ -9,10 +9,10 @@ nav_order: 2
 {:toc}
 
 
-# 🧭User Guide - how to use the e-lab🧭
+# User Guide - how to use the e-lab
 Through this interactive section of the LifeWatch.be portal users can upload their own data using a standard data format, and choose from several web services, models and applications to process the data.
 
-## Discover webservices 
+## 🧭Discover🧭 webservices 
 This page helps you choose the right web services by **applying different filters**. For example, click on 'Marine', 'Taxonomy' and 'Aphia/WoRMS'. It will show you a list of services you can choose from to process your data.
 
 ![Screenshot (10)](https://github.com/lifewatch/elab-documentation/assets/144227108/e509df40-7c61-4495-8f90-04427a69eae9)
