@@ -5,6 +5,17 @@ nav_order: 1
 ---
 
 # 🚀Quick Guide🚀 through the e-lab
+{: .no_toc }
+
+
+<details open markdown="block">
+<summary>
+    Table of contents
+</summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 This Quick guide summarizes how to get the ✨best✨ out of e-lab. If something ❔does not work❔or if you need more information, please have a look at the ▶️ [extented user guide](../docs/user-guide.md) .
 
 ## Run Services 
