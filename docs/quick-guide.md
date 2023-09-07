@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Quick Guide
+title: 🚀Quick Guide🚀
 nav_order: 1
 ---
 
-# Quick Guide through the e-lab
+# 🚀Quick Guide🚀 through the e-lab
 This Quick guide summarizes how to get the ✨best✨ out of e-lab. If something ❔does not work❔or if you need more information, please have a look at the ▶️ [extented user guide](../docs/user-guide.md) .
 
 ## Run Services 
-If you are already familiar with e-lab 🤝, the quickest way to get started is through 🚀**Run Services**🚀. 
+If you are already familiar with e-lab 🤝, the quickest way to get started is through **Run Services**. 
 
 ![Screenshot (14)](https://github.com/lifewatch/elab-documentation/assets/144227108/d071875b-fd77-48ef-8b06-b73dd72c6487)
 
