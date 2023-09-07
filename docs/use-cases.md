@@ -42,14 +42,15 @@ When you click "Next", you are redirected to the preview screen. Make sure that 
 
 *Note: if this step does not work, try on a different browser (Firefox, Google Chrome, ... )*
 
-![Screenshot (2)](https://github.com/lifewatch/elab-documentation/assets/144227108/ebbbaa69-44e2-4f49-816b-bac95f638807)
+![name columns](https://github.com/lifewatch/elab-documentation/assets/144227108/ebbbaa69-44e2-4f49-816b-bac95f638807)
 
 5. Run job
 
 The following message appears:
 
-![Screenshot (3)](https://github.com/lifewatch/elab-documentation/assets/144227108/52bb3351-143b-4813-aba2-02d4d3464371)
+![Job done](https://github.com/lifewatch/elab-documentation/assets/144227108/52bb3351-143b-4813-aba2-02d4d3464371)
 
 Click on "Results". Your result file will appear at the top of the results table. The result report gives an overview of the requested web services, the results per web service, any errors that might have occurred during the process, and a legend of the added fields in the result file.
 
-![Screenshot (4)](https://github.com/lifewatch/elab-documentation/assets/144227108/9e3f786b-6b5c-4b06-9685-ba7d2cac5438)
+![Results report](https://github.com/lifewatch/elab-documentation/assets/144227108/ba1f48dc-1151-44e3-92e5-3d544764f443)
+
