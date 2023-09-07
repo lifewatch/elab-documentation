@@ -24,11 +24,11 @@ On this page you are able to **upload your _own file_** or to try out a **_marin
 
 ### Upload your own data file
 
-- Prepare your data file for upload.
+- Prepare your 🌌data🌌 file for upload.
   > Allowed file types: Plain text [TXT], Plain text [CSV], Excel [XLS] and Excel [XLSX].
 
 - Click on "Browse" or "Choose file" (depending on your browser) to upload your file.
-- This will open the file explorer on your PC.
+- This will open the file explorer on your PC 🖥️
 - Select your file.
 
   > **Heading**: use the flag box to indicate whether your first row contains the column names or not.
@@ -70,9 +70,9 @@ Click on “Results”. Your result file will appear at the top of the results t
 ![Screenshot (4)](https://github.com/lifewatch/elab-documentation/assets/144227108/b88f6fd3-ce8e-47f0-b3d6-83f5f0262904)
 
 ## Results 
-Here you can find the previous jobs submitted with their original file and their job status.
+Here you can find the previous jobs submitted with their original file and their job status 🔎
 
 ![Screenshot (12)](https://github.com/lifewatch/elab-documentation/assets/144227108/19e7cbe0-b797-43e8-839b-0f3c16cedf28)
 
 ## User Guide 
-This is the link to the document you are reading right now.
+📍This is the link to the document you are reading right now.
