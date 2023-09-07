@@ -28,4 +28,4 @@ If you are already familiar with e-lab, the quickest way to get started is throu
 Save your results 
 
 ## Web services 
-A list of [15 web services' categories ](docs/web-services-description.md) is shown under the tab **Discover**. Each of these categories involve several services that are further explained in the extended user guide and on the website. 
+A list of 15 web services' categories is shown under the tab **Discover**. Each of these categories involve several services that are further explained in the [web services section](docs/web-services-description.md)and on the website. 
