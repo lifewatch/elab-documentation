@@ -26,7 +26,7 @@ Without log-in and password you can use a marine or terrestrial demo file to dis
 
 ### Upload your own data file
 
-- Prepare your data file for upload. Allowed file types: Plain text [TXT], Plain text [CSV], Excel [XLS] and Excel [XLSX]. 
+- Prepare your data file for upload. Allowed file types: Plain text [TXT], Plain text [CSV], Excel [XLS] and Excel [XLSX].
 - Click on "Browse" or "Choose file" (depending on your browser) to upload your file.
 - This will open the file explorer on your PC.
 - Select your file.
