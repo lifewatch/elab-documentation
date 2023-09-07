@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Quick Guide through the e-lab
-This Quick guide summarizes how to get the best out of e-lab. If something does not work or if you need more information, please refer back to the [extented user guide ](docs/user-guide.md).
+This Quick guide summarizes how to get the best out of e-lab. If something does not work or if you need more information, please have a look at the [extented user guide ](docs/user-guide.md).
 
 ## Run Services 
 If you are already familiar with e-lab, the quickest way to get started is through **Run Services**. 
