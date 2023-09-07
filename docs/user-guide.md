@@ -18,15 +18,16 @@ Use cases are examples of how you can use services to show and analyze your data
 ![Use Cases](https://github.com/lifewatch/elab-documentation/assets/144227108/f32be554-cf11-4da3-a947-7d7ad4e8fb7d)
 
 ## Run services 
-On this page you are able to upload your own file or to try out a marine or terrestrial demo file. 
+On this page you are able to **upload your _own file_** or to try out a **_marine or terrestrial_ demo file**. 
 
-To upload your own data files to the e-Lab, you will require a **log-in** and password. You can obtain these freely by clicking on the 'Log In' Icon on the top right side of your screen. Choose the 'Sign In' option and follow the steps. 
-Without log-in and password you can use a marine or terrestrial demo file to discover the functionalities of the e-Lab.
-
+> [!NOTE]
+> To upload your own data files to the e-Lab, you will require a **log-in** and password. You can obtain these freely by clicking on the 'Log In' Icon on the top right side of your screen. Choose the 'Sign In' option and follow the steps. Without log-in and password you can use a marine or terrestrial demo file to discover the functionalities of the e-Lab.
 
 ### Upload your own data file
 
-- Prepare your data file for upload. Allowed file types: Plain text [TXT], Plain text [CSV], Excel [XLS] and Excel [XLSX].
+- Prepare your data file for upload.
+  > Allowed file types: Plain text [TXT], Plain text [CSV], Excel [XLS] and Excel [XLSX].
+
 - Click on "Browse" or "Choose file" (depending on your browser) to upload your file.
 - This will open the file explorer on your PC.
 - Select your file.
@@ -60,7 +61,8 @@ The image below shows the services selected for Use Case 4 on the Demo file.
 ### Confirm columns
 When you click “Next”, you are redirected to the preview screen. Make sure that every column name from the uploaded file corresponds with a column name from the pick list. Click ‘Confirm’.
 
-Note: if this step does not work, try on a different browser (Firefox, Google Chrome, … )
+> [!NOTE]
+> Note: if this step does not work, try on a different browser (Firefox, Google Chrome, … )
 
 ### Run job
 The following message appears:
