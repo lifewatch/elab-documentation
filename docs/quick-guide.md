@@ -7,13 +7,7 @@ nav_order: 1
 # Quick Guide through the e-lab
 This Quick guide summarizes how to get the best out of e-lab. If something does not work or if you need more information, please refer back to the extented user guide on the next page.
 
-elab_interface.PNG
 ![blablabla](https://raw.githubusercontent.com/lifewatch/elab-documentation/main/assets/images/elab_interface.PNG)
-
-![eels](https://github.com/lifewatch/elab-documentation/assets/144227108/e7d7b798-3617-4991-8984-a72b07085ba0)
-
-
-![e-lab screenshot]()
 
 ## Run Services 
 If you are already familiar with e-lab, the quickest way to get started is through the button **Run Services**. 
