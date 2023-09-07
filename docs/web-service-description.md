@@ -24,7 +24,7 @@ The web services are the tools used to process the data. The web services can al
 |:-------------|:------------------|
 | **Number of observations in a 1000m radius around a point**           | Returns the number of observations in the Ocean Biodiversity Information System (OBIS) of taxon in a radius of 1000 meter around a point, based on Latitude and Longitude in the uploaded data file.|
 
-## ​​Geographical services - Administrative boundaries:
+## ​​Geographical services - Administrative boundaries 
 These web services return the name and code of administrative boundaries, such as EMODnet regions, Exclusive Economic Zones (EEZ), ICES Ecoregions, IHO Sea Areas, Intersect of the EEZ and IHO (Marine Regions), World Countries, and FAO Fishing Areas, based on Latitude and Longitude in the uploaded data file.​​
 
 | Service        | Explanation          |
@@ -36,7 +36,7 @@ These web services return the name and code of administrative boundaries, such a
 | **Intersect of the EEZ and IHO** |  |
 | **World countries**        | Returns the country based on latitude and longitude |
 
-## Geographical services - Bathymetry:
+## Geographical services - Bathymetry 📐
 
 | Service        | Explanation          |
 |:-------------|:------------------|
@@ -44,7 +44,7 @@ These web services return the name and code of administrative boundaries, such a
 | **​​GEBCO bathymetry** | Returns the bathymetry from the General Bathymetric Chart of the Oceans (GEBCO), based on Latitude and Longitude in the uploaded data file. |
 | **MARSPEC: global marine bathymetrie (Resolution: 30 arc seconds)s**        | Returns the global marine bathymetry with a resolution of 30 arc seconds from the Ocean Climate Layers for Marine Spatial Ecology (MARSPEC), based on Latitude and Longitude in the uploaded data file |
 
-## Geographical services - Biogeographical classification
+## Geographical services - Biogeographical classification 🗺️
 
 | Service        | 
 |:-------------|
@@ -55,7 +55,7 @@ These web services return the name and code of administrative boundaries, such a
 | **Marine Realms of the World** |  
 | **World countries**        | 
 
-## Geographical services - Environmental data
+## Geographical services - Environmental data 🌡️
 
 | Service        | 
 |:-------------|
@@ -83,26 +83,26 @@ These web services return the name and code of administrative boundaries, such a
 | **Sea surface temperature (range) [Celsius]**           |
 | **Silicate [µmol/l]** |  
 
-## Geographical services - Features
+## Geographical services - Features 🐟
 
 | Service        | Explanation          |
 |:-------------|:------------------|
 | **Shoals (Belgian Continental Shelf)**           |Indicates if a given location in the Belgian Continental Shelf is situated on a shoal, based on Latitude and Longitude in the uploaded data file, and gives the name and group of the shoal.|
 
-## Geographical services - Protected areas
+## Geographical services - Protected areas 🍀
 
 | Service        | Explanation          |
 |:-------------|:------------------|
 | **Flemish Ecological Network**           |Indicates if a given location is situated within the Flemish Ecological Network, based on Latitude and Longitude in the uploaded data file, and gives the type and name of the VEN-area. The Flemish Ecological Network (VEN) is a selection of valuable and sensitive natural areas in Flanders. The Flemish government gives priority to nature conservation and nature development in these areas.|
 
-## Geographical services - Total biological valuation
+## Geographical services - Total biological valuation 🌿
 
 | Service        | Explanation          |
 |:-------------|:------------------|
 | **Terrestrial Biological Valuation (v22)**           |Returns the terrestrial biological value of a location in the Flemish Region, based on Latitude and Longitude in the uploaded data file and the Biological Valuation Map (version 22). The Biological Valuation Map is a uniform field-driven survey of the land cover and vegetation in the Flemish Region.|
 | **Marine Biological Valuation Map for the Belgian Part of the North Sea** | Returns the total marine biological value of a location in the Belgian Continental Shelf, based on Latitude and Longitude in the uploaded data file and the Biological Valuation Map for the Belgian Continental Shelf (BWZee) produced in 2007. |
 
-## Marineregions gazetteer services
+## Marineregions gazetteer services 🌐
 
 | Service        | Explanation          |
 |:-------------|:------------------|
@@ -111,7 +111,7 @@ These web services return the name and code of administrative boundaries, such a
 | **Get gazetteer name by lat-long**        | Returns the Marine Regions place name and the Marine Regions ID (MRGID) of the bounding box (radius 3) based on Latitude and Longitude in the uploaded data file. |
 | **Get lat-long by accepted name**           | Returns the latitude, longitude, accepted name and the Marine Regions ID (MRGID) of a given gazetteer name in the uploaded data file.|
 
-## Other taxon services
+## Other taxon services 🐝
 
 | Service        | Explanation          |
 |:-------------|:------------------|
@@ -148,7 +148,7 @@ These web services return the name and code of administrative boundaries, such a
 | **Taxon match World Register of Marine Introduced Species (WRIMS)** | The service matches your taxon list with the World Register of Marine Introduced Species (WRIMS), based on the ScientificName in the uploaded data file.|
 | **Taxon match World Register of marine Cave Species (WoRCS)**        | The service matches your taxon list with the World Register of marine Cave Species (WoRCS), based on the ScientificName in the uploaded data file. |
 
-## Taxon observations 
+## Taxon observations 🔬
 
 | Service        | Explanation          |
 |:-------------|:------------------|
@@ -156,7 +156,7 @@ These web services return the name and code of administrative boundaries, such a
 | **Taxon list of a certain region** | Returns a taxon list based on observations from the Ocean Biodiversity Information System (OBIS) for a certain region, based on the Marine Regions ID (MRGID) in the uploaded data file. Website information: http://www.iobis.org/geoserver/web/ |
 | **Occurence of a taxon is located within a known distribution record**        | The service verifies if the coordinates of the taxon observation in the uploaded data file are located within a distribution record of that taxon in WoRMS/Aphia. In the result report a map is available which shows the coordinates in the uploaded data file and the distribution records of the taxa in WoRMS/Aphia. Website information: http://marinespecies.org/aphia.php?p=webservice |
 
-## ​Tidal services:
+## ​Tidal services 🌊
 
 | Service        | Explanation          |
 |:-------------|:------------------|
