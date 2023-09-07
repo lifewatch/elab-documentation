@@ -4,10 +4,14 @@ title: 🧭User Guide🧭
 nav_order: 2
 ---
 
-<user-guide> 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
-
+</details>
 
 # User Guide - how to use the e-lab
 Through this interactive section of the LifeWatch.be portal users can upload their own data using a standard data format, and choose from several web services, models and applications to process the data.
