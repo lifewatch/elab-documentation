@@ -45,7 +45,7 @@ On this page you are able to **upload your _own file_** or to try out a **_marin
 
 Select an option between 
 1. **Predefined [use cases](../docs/use-cases.md) ** which are sets of webservices
-1. **Custom webservices** from the [list described below](../docs/web-service-description.md) 
+1. **Custom webservices** from the [list described below](../docs/web-service-description.md)
 
 ![Screenshot (7)](https://github.com/lifewatch/elab-documentation/assets/144227108/4bb31e03-0ce8-43c5-a32c-dcfe1676e2c9)
 
