@@ -9,6 +9,17 @@ nav_order: 4
 ## Use Case 4: Quality Control of Biodiversity Datasets 
 
 ### Set-up: You upload an entire data set and want to perform a series of quality control steps on your data
+- Dataset formatted in the **OBIS scheme**: choose web service 'Check OBIS file'
+
+  This web service checks which mandatory fields are present or missing, and checks if values are missing in the mandatory fields. This web service also generates a map and validates the coordinates (sea-land) and the dates. Furthermore, this web service performs a taxon match with the World Register of Marine Species (WoRMS).
+
+- Dataset in the **LifeWatch data format**: choose web service 'Data format validation'
+
+  This web service checks which fields do not belong to the data format, and validates the values in the fields longitude, latitude and eventdate. To further validate the content of the data set, you can choose additional data services. First, you can perform a taxonomic quality control through the web service 'Taxon match'. This web service checks if the uploaded taxon names are recorded in existing taxonomic databases and nomenclatures such as the World Register of Marine Species (WoRMS), the Catalogue of Life (CoL), the Integrated Taxonomic Information System (ITIS), Index Fungorum (IF), the International Plant Names Index (IPNI), the Global Names Index (GNI), the Paleobiology Database (Paleo), and the Pan-European Species directories Infrastructure (PESI).
+  
+If a taxon name is available in these databases, this web service renders, for each database, its ID, its status (accepted or unaccepted) and its accepted name. The web service can match the uploaded taxon names to all taxonomic databases at once or to a selection. For instance, if the dataset contains purely marine taxa, you can select Taxon match World Register of Marine Species (WoRMS) and remove the other taxon matches. Second, you can perform a geographic quality control, i.e. check the coordinates, through the web service 'Show on map'. The output of this web service is a map with the plotted coordinates. Here you can verify very quickly if marine observation points are indeed plotted in marine areas, and terrestrial observation points are indeed plotted on land.
+
+For this use case the order of the selected web services is not relevant. The 'Check OBIS file' web service needs to be performed separately, since the input file for this web service is a dataset in the OBIS scheme (example). The 'Data format validation', 'Taxon match' and 'Show on map' web services can be performed simultaneously. The input file for these web services is a dataset in the LifeWatch data format (example).
 
 ### How to
 
