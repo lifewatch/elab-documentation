@@ -19,8 +19,10 @@ Use cases are examples of how you can use services to show and analyze your data
 
 ## Run services 
 On this page you are able to upload your own file or to try out a marine or terrestrial demo file. 
-To upload your own data files to the e-Lab, you will require a **log-in** and password. You can obtain these freely by registering here. 
+
+To upload your own data files to the e-Lab, you will require a **log-in** and password. You can obtain these freely by clicking on the 'Log In' Icon on the top right side of your screen. Choose the 'Sign In' option and follow the steps. 
 Without log-in and password you can use a marine or terrestrial demo file to discover the functionalities of the e-Lab.
+
 
 ### Upload your own data file
 
@@ -37,17 +39,28 @@ Without log-in and password you can use a marine or terrestrial demo file to dis
 
 **Data format**: select "lifewatch" for all web services (except for "Check OBIS file"); only select "obis" for the "Check OBIS file" web service (see above).
 
+![Screenshot (6)](https://github.com/lifewatch/elab-documentation/assets/144227108/273dde5d-084f-4059-89c4-64281f452c53)
+
 ### Select services
 
 Select an option between 
 1. **Predefined [use cases](docs/use-cases.md) ** which are sets of webservices
 1. **Custom webservices** from the [list described below](docs/web-services-description.md) 
 
+![Screenshot (7)](https://github.com/lifewatch/elab-documentation/assets/144227108/4bb31e03-0ce8-43c5-a32c-dcfe1676e2c9)
+
 ### Order services 
-Verify and change order if necessary. In case of multiple web services selected, the order can be changed by dragging the boxes into the order wanted.
+Verify and change order if necessary. In case of multiple web services selected, the order can be changed by dragging the boxes into the order wanted. 
+
+The image below shows the services selected for Use Case 4 on the Demo file.
+
+![Screenshot (8)](https://github.com/lifewatch/elab-documentation/assets/144227108/85d1cc81-cadf-44e4-8834-e2d8bec183e1)
+
 
 ### Confirm columns
 When clicking on "Next", you are redirected to the preview screen. Select the column names from the data format term that correspond to your columns. In the example below a list with coordinates ... **to do with new website**
+
+
 
 ### Run job
 Click "Start". The following message appears: Your results will appear at the top of the results table. The "filename" is the original data file you uploaded. Within the "resultfile" additional columns have been added to the original file, containing information derived from the requested data services. The "resultreport" gives an overview of the requested web services and any errors that might have occurred during the process. These files are linked to your account and can be downloaded for further analysis at any time. 
