@@ -77,4 +77,4 @@ Here you can find the previous jobs submitted with their original file and their
 ![Screenshot (12)](https://github.com/lifewatch/elab-documentation/assets/144227108/19e7cbe0-b797-43e8-839b-0f3c16cedf28)
 
 ## User Guide 
-This is the document you are reading right now.
+This is the link to the document you are reading right now.
