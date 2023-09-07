@@ -58,15 +58,23 @@ The image below shows the services selected for Use Case 4 on the Demo file.
 
 
 ### Confirm columns
-When clicking on "Next", you are redirected to the preview screen. Select the column names from the data format term that correspond to your columns. In the example below a list with coordinates ... **to do with new website**
+When you click “Next”, you are redirected to the preview screen. Make sure that every column name from the uploaded file corresponds with a column name from the pick list. Click ‘Confirm’.
 
-
+Note: if this step does not work, try on a different browser (Firefox, Google Chrome, … )
 
 ### Run job
-Click "Start". The following message appears: Your results will appear at the top of the results table. The "filename" is the original data file you uploaded. Within the "resultfile" additional columns have been added to the original file, containing information derived from the requested data services. The "resultreport" gives an overview of the requested web services and any errors that might have occurred during the process. These files are linked to your account and can be downloaded for further analysis at any time. 
+The following message appears:
+
+![Screenshot (5)](https://github.com/lifewatch/elab-documentation/assets/144227108/df11342e-03f8-47df-b2da-976f4f827bdb)
+
+Click on “Results”. Your result file will appear at the top of the results table. The "resultreport" gives an overview of the requested web services and any errors that might have occurred during the process. These files are linked to your account and can be downloaded for further analysis at any time. 
+
+![Screenshot (4)](https://github.com/lifewatch/elab-documentation/assets/144227108/b88f6fd3-ce8e-47f0-b3d6-83f5f0262904)
 
 ## Results 
 Here you can find the previous jobs submitted with their original file and their job status.
+
+![Screenshot (12)](https://github.com/lifewatch/elab-documentation/assets/144227108/19e7cbe0-b797-43e8-839b-0f3c16cedf28)
 
 ## User Guide 
 This is the document you are reading right now.
