@@ -10,7 +10,7 @@ The web services are the tools used to process the data. The web services can al
 
 ![Screenshot (17)](https://github.com/lifewatch/elab-documentation/assets/144227108/47a3215d-96e2-4590-89c8-742bcabade75)
 
-## Data validation and QC services
+## Data validation and QC services 🌍
 
 | Service        | Explanation          |
 |:-------------|:------------------|
@@ -18,13 +18,13 @@ The web services are the tools used to process the data. The web services can al
 | **Show on map** | This service generates a map based on Latitude and Longitude in the uploaded data file. The resulting map is available in the result report.  |
 | **Check OBIS file**        | This service checks if the uploaded data file matches the OBIS Schema (mandatory and missing fields), checks the format of the date and coordinates and checks if the observation points are located at sea or on land. This service also performs a WoRMS taxon match. |
 
-## EMODnet Biology 
+## EMODnet Biology 🐾
 
 | Service        | Explanation          |
 |:-------------|:------------------|
 | **Number of observations in a 1000m radius around a point**           | Returns the number of observations in the Ocean Biodiversity Information System (OBIS) of taxon in a radius of 1000 meter around a point, based on Latitude and Longitude in the uploaded data file.|
 
-## ​​Geographical services - Administrative boundaries 
+## ​​Geographical services - Administrative boundaries 🗺️
 These web services return the name and code of administrative boundaries, such as EMODnet regions, Exclusive Economic Zones (EEZ), ICES Ecoregions, IHO Sea Areas, Intersect of the EEZ and IHO (Marine Regions), World Countries, and FAO Fishing Areas, based on Latitude and Longitude in the uploaded data file.​​
 
 | Service        | Explanation          |
@@ -44,7 +44,7 @@ These web services return the name and code of administrative boundaries, such a
 | **​​GEBCO bathymetry** | Returns the bathymetry from the General Bathymetric Chart of the Oceans (GEBCO), based on Latitude and Longitude in the uploaded data file. |
 | **MARSPEC: global marine bathymetrie (Resolution: 30 arc seconds)s**        | Returns the global marine bathymetry with a resolution of 30 arc seconds from the Ocean Climate Layers for Marine Spatial Ecology (MARSPEC), based on Latitude and Longitude in the uploaded data file |
 
-## Geographical services - Biogeographical classification 🗺️
+## Geographical services - Biogeographical classification 🗾
 
 | Service        | 
 |:-------------|
