@@ -6,21 +6,23 @@ nav_order: 3
 
 # Description of the web services
 
-The web services can also be used in a concatenated way, where the output of the first web service is the input for the next web service. This is demonstrated in the Use cases.
+The web services are the tools used to process the data. The web services can also be used in a concatenated way, where the output of the first web service is the input for the next web service. This is demonstrated in the Use cases.
 
 ![Screenshot (17)](https://github.com/lifewatch/elab-documentation/assets/144227108/47a3215d-96e2-4590-89c8-742bcabade75)
-
 
 ## Data validation and QC services
 
 ### Data format validation
 The LifeWatch portal uses a specific standard data format based on Darwin Core and the OBIS Schema (see above). This service checks if the uploaded data file matches this standard LifeWatch data format.
+
 ### Show on map
 This service generates a map based on Latitude and Longitude in the uploaded data file. The resulting map is available in the result report.
+
 ### Check OBIS file
 This service checks if the uploaded data file matches the OBIS Schema (mandatory and missing fields), checks the format of the date and coordinates and checks if the observation points are located at sea or on land. This service also performs a WoRMS taxon match.
 
 ## EMODnet Biology 
+
 ### Number of observations in a 1000m radius around a point
 Returns the number of observations in the Ocean Biodiversity Information System (OBIS) of taxon in a radius of 1000 meter around a point, based on Latitude and Longitude in the uploaded data file.
 
@@ -28,10 +30,15 @@ Returns the number of observations in the Ocean Biodiversity Information System 
 These web services return the name and code of administrative boundaries, such as EMODnet regions, Exclusive Economic Zones (EEZ), ICES Ecoregions, IHO Sea Areas, Intersect of the EEZ and IHO (Marine Regions), World Countries, and FAO Fishing Areas, based on Latitude and Longitude in the uploaded data file.​​
 
 ### Exclusive Economic Zone 
+
 ### FAO Fishing areas
+
 ### ICES Ecoregions
+
 ### IHO Sea areas
+
 ### Intersect of the EEZ and IHO
+
 ### World countries
 Returns the country based on latitude and longitude
 
@@ -49,45 +56,75 @@ Returns the global marine bathymetry with a resolution of 30 arc seconds from th
 ## Geographical services - Biogeographical classification
 
 ### Large Marine Ecosystems of the World
+
 ### Longhurst Provinces
+
 ### Marine Ecoregions of the World
+
 ### Marine Provinces of the World
+
 ### Marine Realms of the World
 
 ## Geographical services - Environmental data
+
 ### Calcite (mean) [mol/m<sup>3</sup>]
+
 ### Chlorophyll A (maximum) [mol/m<sup>3</sup>]
+
 ### Chlorophyll A (mean) [mol/m<sup>3</sup>]
+
 ### Chlorophyll A (minimum) [mol/m<sup>3</sup>]
+
 ### Chlorophyll A (range) [mol/m<sup>3</sup>]
+
 ### Cloud fraction (maximum) [%]
+
 ### Cloud fraction (mean) [%]
+
 ### Cloud fraction (minimum) [%]
+
 ### Diffuse attenuation coefficient at 490 nm (maximum) [m<sup>-1</sup>]
+
 ### Diffuse attenuation coefficient at 490 nm (mean) [m<sup>-1</sup>]
+
 ### Diffuse attenuation coefficient at 490 nm (minimum) [m<sup>-1</sup>]
+
 ### Dissolved oxygen [ml/l]
+
 ### Nitrate 
+
 ### pH [no unit]
+
 ### Phosphate [µmol/l]
+
 ### Photosynthetically available radiation (maximum) [Einstein/m<sup>2</sup>/day]
+
 ### Photosynthetically available radiation (mean) [Einstein/m<sup>2</sup>/day]
+
 ### Salinity [PSS]
+
 ### Sea surface temperature (maximum) [Celsius]
+
 ### Sea surface temperature (mean) [Celsius]
+
 ### Sea surface temperature (minimum) [Celsius]
+
 ### Sea surface temperature (range) [Celsius]
+
 ### Silicate [µmol/l]
 
 ## Geographical services - Features
+
 ### Shoals (Belgian Continental Shelf)
 Indicates if a given location in the Belgian Continental Shelf is situated on a shoal, based on Latitude and Longitude in the uploaded data file, and gives the name and group of the shoal.
 
 ## Geographical services - Protected areas
+
 ### Flemish Ecological Network 
 Indicates if a given location is situated within the Flemish Ecological Network, based on Latitude and Longitude in the uploaded data file, and gives the type and name of the VEN-area. The Flemish Ecological Network (VEN) is a selection of valuable and sensitive natural areas in Flanders. The Flemish government gives priority to nature conservation and nature development in these areas.
 
 ## Geographical services - Total biological valuation:
+
 ### Terrestrial Biological Valuation (v22) 
 Returns the terrestrial biological value of a location in the Flemish Region, based on Latitude and Longitude in the uploaded data file and the Biological Valuation Map (version 22). The Biological Valuation Map is a uniform field-driven survey of the land cover and vegetation in the Flemish Region.
 
@@ -123,6 +160,7 @@ Returns the Aphia record (scientific name, taxonomic status, etc.) based on the 
 Returns the Aphia record (scientific name, taxonomic status, etc.) based on the AphiaID of the World Register of Marine Species (WoRMS) in the uploaded data file.
 
 ## Taxon match services
+
 ### Pan-European Species directories Infrastructure (PESI)
 The service matches your taxon list with the Pan-European Species directories Infrastructure database (PESI), based on the ScientificName in the uploaded data file. Website information : http://www.eu-nomen.eu/portal/webservices.php
 
