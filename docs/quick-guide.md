@@ -24,4 +24,4 @@ Here you can find all of your current and previous results.
 ![Screenshot (12)](https://github.com/lifewatch/elab-documentation/assets/144227108/87edce18-2c26-4e7b-ac36-15646ccc2fa7)
 
 ## Web services 
-A list of 15 web services' categories is shown under the tab **Discover**. Each of these categories involve several services that are further explained in the [web services section](docs/web-services-description.md) and on the website. 
+A list of 15 web services' categories is shown under the tab **Discover**. Each of these categories involve several services that are further explained in the [web services section](docs/web-services-description.md).
