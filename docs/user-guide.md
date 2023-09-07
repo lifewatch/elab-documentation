@@ -1,6 +1,6 @@
 ---
 layout: default
-title: User Guide
+title: 🧭User Guide🧭
 nav_order: 2
 ---
 
@@ -9,7 +9,7 @@ nav_order: 2
 {:toc}
 
 
-# User Guide - how to use the e-lab
+# 🧭User Guide - how to use the e-lab🧭
 Through this interactive section of the LifeWatch.be portal users can upload their own data using a standard data format, and choose from several web services, models and applications to process the data.
 
 ## Discover webservices 
