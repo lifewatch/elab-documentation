@@ -60,7 +60,7 @@ When you click “Next”, you are redirected to the preview screen. Make sure t
 
 > Note: if this step does not work, try to open e-lab on a different browser (Firefox, Google Chrome, … )
 
-### Run job
+### ⌛Run⌛ job
 The following message appears:
 
 ![Screenshot (5)](https://github.com/lifewatch/elab-documentation/assets/144227108/df11342e-03f8-47df-b2da-976f4f827bdb)
