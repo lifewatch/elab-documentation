@@ -4,7 +4,7 @@ title: Use Cases
 nav_order: 4
 ---
 
-[Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-green .btn-outline .float-right }
+[Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-purple .btn-outline .float-right }
 
 # Use Cases
 
