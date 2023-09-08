@@ -4,8 +4,6 @@ title: Web service description
 nav_order: 3
 ---
 
-[Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-purple .btn-outline .float-right}
-
 # Description of the web services
 {: .no_toc }
 
