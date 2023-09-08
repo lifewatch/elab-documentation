@@ -5,6 +5,8 @@ nav_order: 2
 ---
 
 # User Guide - how to use the e-lab
+
+
 {: .no_toc }
 
 
@@ -16,6 +18,7 @@ nav_order: 2
 - TOC
 {:toc}
 </details>
+
 
 
 Through this **interactive** section of the LifeWatch.be portal users can upload their own data using a **standard** data format, and choose from several web **services**, models and applications to process the **data**.
