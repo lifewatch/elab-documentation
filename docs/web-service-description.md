@@ -5,6 +5,17 @@ nav_order: 3
 ---
 
 # Description of the web services
+{: .no_toc }
+
+
+<details open markdown="block">
+<summary>
+    Table of contents
+</summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 The web services are the tools used to process the data. The web services can also be used in a concatenated way, where the output of the first web service is the input for the next web service. This is demonstrated in the Use cases.
 
