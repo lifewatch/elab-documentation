@@ -5,3 +5,8 @@ theme: just-the-docs
 url: https://lifewatch.github.io/elab-documentation
 
 footer_content: "©️ 2023 LifeWatch BE"
+
+
+aux_links:
+  "Report feedback":
+    - "https://github.com/lifewatch/elab-documentation/issues"
