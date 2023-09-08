@@ -18,7 +18,7 @@ nav_order: 2
 {:toc}
 </details>
 
-Through this interactive section of the LifeWatch.be portal users can upload their own data using a standard data format, and choose from several web services, models and applications to process the data.
+Through this **interactive** section of the LifeWatch.be portal users can upload their own data using a **standard** data format, and choose from several web **services**, models and applications to process the **data**.
 
 ## Discover webservices 🛺
 This page helps you choose the right web services by **applying different filters**. For example, click on 'Marine', 'Taxonomy' and 'Aphia/WoRMS'. It will show you a list of services you can choose from to process your data.
