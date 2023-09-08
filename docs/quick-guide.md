@@ -26,7 +26,7 @@ If you are already familiar with e-lab 🤝, the quickest way to get started is 
 
 ✅ Upload your own file as custom
 
-✅ Select the [services](../docs/web-service-description.md) you need eg. show on map, taxon match.
+✅ Select the [services](https://lifewatch.github.io/elab-documentation/docs/web-service-description.html) you need eg. show on map, taxon match. 
 
 ✅ Validate and order the services you previously selected 
 
