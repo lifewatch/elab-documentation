@@ -3,6 +3,7 @@ layout: default
 title: 🚀Quick Guide🚀
 nav_order: 1
 ---
+[Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-green .btn-outline .float-right }
 
 # 🚀Quick Guide🚀 through the e-lab
 {: .no_toc }
