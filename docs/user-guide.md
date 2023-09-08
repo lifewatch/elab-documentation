@@ -27,6 +27,9 @@ float: right;
 {:toc}
 </details>
 
+[Button text](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-outline .float-right }
+
+
 Through this interactive section of the LifeWatch.be portal users can upload their own data using a standard data format, and choose from several web services, models and applications to process the data.
 
 ## Discover webservices 🧭
