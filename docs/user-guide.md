@@ -3,18 +3,7 @@ layout: default
 title: 🧭User Guide🧭
 nav_order: 2
 ---
-[Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-outline .float-right }
-
-aux_links_new_tab: false
-"Report Feedback":
-    - "[//github.com/just-the-docs/just-the-docs](https://github.com/lifewatch/elab-documentation/issues)"
-
-<div><button>Report feedback</button>some content here</div>
-div + button {
-float: right;
-}
-
-[Report Feedback](https://github.com/just-the-docs/just-the-docs](https://github.com/lifewatch/elab-documentation/issues){: .btn}
+[Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-green .btn-outline .float-right }
 
 # User Guide - how to use the e-lab
 {: .no_toc }
@@ -28,9 +17,6 @@ float: right;
 - TOC
 {:toc}
 </details>
-
-[Button text](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-outline .float-right }
-
 
 Through this interactive section of the LifeWatch.be portal users can upload their own data using a standard data format, and choose from several web services, models and applications to process the data.
 
