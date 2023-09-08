@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🧭User Guide🧭
+title: User Guide
 nav_order: 2
 ---
 [Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-purple .btn-outline .float-right}
