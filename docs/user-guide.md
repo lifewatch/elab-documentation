@@ -60,7 +60,7 @@ On this page you are able to **upload your _own file_** or to try out a **_marin
 
 
 
-  > **Column delimiter**: select the relevant column delimiter: Tab, Semicolon (;), Comma (,) or Vertical bar (|)
+  > **Column delimiter**: select the relevant column delimiter: Tab, Semicolon (;), Comma (,) or Vertical bar
 
 
 
