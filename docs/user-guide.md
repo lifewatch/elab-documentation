@@ -3,6 +3,8 @@ layout: default
 title: 🧭User Guide🧭
 nav_order: 2
 ---
+[Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-outline .float-right }
+
 aux_links_new_tab: false
 "Report Feedback":
     - "[//github.com/just-the-docs/just-the-docs](https://github.com/lifewatch/elab-documentation/issues)"
