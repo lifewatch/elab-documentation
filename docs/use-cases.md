@@ -4,6 +4,8 @@ title: Use Cases
 nav_order: 4
 ---
 
+[Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-green .btn-outline .float-right }
+
 # Use Cases
 
 ## Use Case 4: Quality Control of Biodiversity Datasets 
