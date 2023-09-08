@@ -5,6 +5,8 @@ nav_order: 3
 ---
 
 # Description of the web services
+
+
 {: .no_toc }
 
 
@@ -18,10 +20,15 @@ nav_order: 3
 </details>
 
 
+
+
 The web services are the **tools** used to **process** the data. The web services can also be used in a concatenated way, where the output of the first web service is the input for the next web service. This is demonstrated in the use cases.
 
 
 ![Screenshot (17)](https://github.com/lifewatch/elab-documentation/assets/144227108/47a3215d-96e2-4590-89c8-742bcabade75)
+
+
+
 
 
 ## Data validation and QC services 🌍
