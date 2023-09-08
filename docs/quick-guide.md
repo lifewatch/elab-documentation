@@ -24,15 +24,15 @@ If you are already familiar with e-lab 🤝, the quickest way to get started is 
 
 ![Screenshot (14)](https://github.com/lifewatch/elab-documentation/assets/144227108/d071875b-fd77-48ef-8b06-b73dd72c6487)
 
-✅ Upload your own file as custom
+✅ Upload your **own** file as custom 
 
-✅ Select the [services](https://lifewatch.github.io/elab-documentation/docs/web-service-description.html) you need eg. show on map, taxon match. 
+✅ Select the [**services**](https://lifewatch.github.io/elab-documentation/docs/web-service-description.html) you need eg. show on map, taxon match. 
 
-✅ Validate and order the services you previously selected 
+✅ **Validate** and **order** the services you previously selected 
 
-✅Select columnn names that correspond to the data
+✅Select **columnn names** that correspond to the data
 
-✅ Run the job
+✅ **Run** the job 🏃
 
 ## Results
 Here you can find all of your current and previous results📈
