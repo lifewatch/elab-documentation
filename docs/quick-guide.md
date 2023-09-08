@@ -25,6 +25,8 @@ This Quick guide summarizes how to get the ✨best✨ out of e-lab. If something
 
 ## Run Services 
 
+
+
 If you are already familiar with e-lab 🤝, the quickest way to get started is through **Run Services**. 
 
 
@@ -37,11 +39,15 @@ If you are already familiar with e-lab 🤝, the quickest way to get started is 
 
 ✅ Upload your **own** file as custom 
 
+
 ✅ Select the [**services**](https://lifewatch.github.io/elab-documentation/docs/web-service-description.html) you need eg. show on map, taxon match. 
+
 
 ✅ **Validate** and **order** the services you previously selected 
 
+
 ✅Select **columnn names** that correspond to the data
+
 
 ✅ **Run** the job 🏃
 
@@ -50,7 +56,12 @@ If you are already familiar with e-lab 🤝, the quickest way to get started is 
 
 
 
+
+
 ## Results
+
+
+
 
 Here you can find all of your current and previous results📈
 
@@ -64,5 +75,8 @@ Here you can find all of your current and previous results📈
 
 
 ## Web services 
+
+
+
 
 A list of 15 web services' categories is shown under the tab 🛺**Discover**🛺. Each of these categories involve several services that are further explained in the [web services section](https://lifewatch.github.io/elab-documentation/docs/web-service-description.html) .
