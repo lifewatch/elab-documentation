@@ -37,7 +37,7 @@ On this page you are able to **upload your _own file_** or to try out a **_marin
 
 ### Upload your own data file ⌛
 
-- Prepare your 🌌data🌌 file for upload.
+- Prepare your 🌌**data**🌌 file for upload.
   > Allowed file types: Plain text [TXT], Plain text [CSV], Excel [XLS] and Excel [XLSX].
 
 - Click on "Browse" or "Choose file" (depending on your browser) to upload your file.
@@ -69,7 +69,7 @@ Verify and change order if necessary. In case of multiple web services selected,
 
 
 ### Confirm columns
-When you click “Next”, you are redirected to the preview screen. Make sure that every column name from the uploaded file corresponds with a column name from the pick list. Click ‘Confirm’.
+When you click “Next”, you are redirected to the **preview** screen. Make sure that every column name from the uploaded file corresponds with a column name from the pick list. Click ‘Confirm’.
 
 > Note: if this step does not work, try to open e-lab on a different browser (Firefox, Google Chrome, … )
 
@@ -78,11 +78,11 @@ The following message appears:
 
 ![Screenshot (5)](https://github.com/lifewatch/elab-documentation/assets/144227108/df11342e-03f8-47df-b2da-976f4f827bdb)
 
-Click on “Results”. Your result file will appear at the top of the results table. This table gives an overview of the requested web services and any errors that might have occurred during the process. These files are linked to your account and can be downloaded for further analysis at any time. 
+Click on “Results”. Your result file will appear **at the top** of the results table. This table gives an overview of the requested web services and any errors that might have occurred during the process. These files are linked to your account and can be downloaded for further analysis at any time. 
 
 ![Screenshot (4)](https://github.com/lifewatch/elab-documentation/assets/144227108/b88f6fd3-ce8e-47f0-b3d6-83f5f0262904)
 
 ## Results 
-Here you can find the previous jobs submitted with their original file and their job status 📈
+Here you can find the **previous jobs** submitted with their original file and their job status 📈
 
 ![Screenshot (12)](https://github.com/lifewatch/elab-documentation/assets/144227108/19e7cbe0-b797-43e8-839b-0f3c16cedf28)
