@@ -3,7 +3,12 @@ layout: default
 title: 🧭User Guide🧭
 nav_order: 2
 ---
+aux_links_new_tab: false
+"Report Feedback":
+    - "[//github.com/just-the-docs/just-the-docs](https://github.com/lifewatch/elab-documentation/issues)"
 
+[Report Feedback](https://github.com/just-the-docs/just-the-docs](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-green }
+    
 # User Guide - how to use the e-lab
 {: .no_toc }
 
