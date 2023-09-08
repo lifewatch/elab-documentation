@@ -3,7 +3,7 @@ layout: default
 title: 🧭User Guide🧭
 nav_order: 2
 ---
-[Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-green .btn-outline .float-right }
+[Report feedback](https://github.com/lifewatch/elab-documentation/issues){: .btn .btn-purple .btn-outline .float-right }
 
 # User Guide - how to use the e-lab
 {: .no_toc }
