@@ -69,7 +69,7 @@ Verify and change order if necessary. In case of multiple web services selected,
 
 
 ### Confirm columns
-When you click “Next” [Next]{: .btn .btn-purple .btn-outline .float-right}, you are redirected to the preview screen. Make sure that every column name from the uploaded file corresponds with a column name from the pick list. Click ‘Confirm’.
+When you click “Next” [Next]{: .btn .btn-purple .btn-outline .float-right} Next {: .label .label-purple }, you are redirected to the preview screen. Make sure that every column name from the uploaded file corresponds with a column name from the pick list. Click ‘Confirm’.
 
 > Note: if this step does not work, try to open e-lab on a different browser (Firefox, Google Chrome, … )
 
