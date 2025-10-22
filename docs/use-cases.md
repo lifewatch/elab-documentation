@@ -38,7 +38,7 @@ For this use case the order of the selected web services is not relevant. The 'C
 Upload your data file and select the relevant row and column delimiter and decimal symbol. Select the data format: OBIS scheme for 'Check OBIS file' and LifeWatch data format for 'Data format validation', 'Taxon match' and 'Show on map'. Click on 'Next'. 
 
 
-![Screenshot (6)](https://github.com/lifewatch/elab-documentation/assets/144227108/a7186c42-fa7d-4d0c-b0fe-11045ff092a9)
+![File upload](https://github.com/lifewatch/elab-documentation/assets/144227108/a7186c42-fa7d-4d0c-b0fe-11045ff092a9)
 
 
 
@@ -48,7 +48,7 @@ Upload your data file and select the relevant row and column delimiter and decim
 
 Select the predefined usecases box. Choose Use Case 4 which contains 3 services : Data format validation, Show on Map and Taxon match Aquacache. Click on 'Select'.
 
-![Screenshot (7)](https://github.com/lifewatch/elab-documentation/assets/144227108/99fa40f6-e3c6-4cc5-9cf6-f00b2f73444e)
+![Select Use Case](https://github.com/lifewatch/elab-documentation/assets/144227108/99fa40f6-e3c6-4cc5-9cf6-f00b2f73444e)
 
 
 
@@ -58,7 +58,7 @@ Select the predefined usecases box. Choose Use Case 4 which contains 3 services 
 
 For this use case the order of the selected web services is not relevant. Click on 'Next'.
 
-![Screenshot (8)](https://github.com/lifewatch/elab-documentation/assets/144227108/7e42e27b-9d5e-4b3e-b118-0abdc35ba8ec)
+![Order and validate](https://github.com/lifewatch/elab-documentation/assets/144227108/7e42e27b-9d5e-4b3e-b118-0abdc35ba8ec)
 
 
 
@@ -67,11 +67,11 @@ For this use case the order of the selected web services is not relevant. Click 
 
 4. Confirm columns
 
-When you click "Next", you are redirected to the preview screen. Make sure that every column name from the uploaded file corresponds with a column name from the pick list. Click 'Confirm'.
+When you click "Next", you are redirected to the preview screen. Make sure that the column containing the scientific name corresponds with a column name from the pick list. Click 'Confirm'.
 
 *Note: if this step does not work, try on a different browser (Firefox, Google Chrome, ... )*
 
-![Preview](https://github.com/lifewatch/elab-documentation/assets/144227108/7b4dafad-47f4-42bb-9158-96abea06c1d3)
+![File mapping](https://github.com/lifewatch/elab-documentation/assets/144227108/7b4dafad-47f4-42bb-9158-96abea06c1d3)
 
 
 
@@ -81,7 +81,99 @@ When you click "Next", you are redirected to the preview screen. Make sure that 
 
 The following message appears:
 
-![Jobs done](https://github.com/lifewatch/elab-documentation/assets/144227108/eb31f8aa-e0a3-4ae9-82e7-ad27457b4dd7)
+![Result](https://github.com/lifewatch/elab-documentation/assets/144227108/eb31f8aa-e0a3-4ae9-82e7-ad27457b4dd7)
+
+
+
+
+Click on "Results". Your result file will appear at the top of the results table. The result report gives an overview of the requested web services, the results per web service, any errors that might have occurred during the process, and a legend of the added fields in the result file.
+
+
+
+
+
+![Results report](https://github.com/lifewatch/elab-documentation/assets/144227108/ba1f48dc-1151-44e3-92e5-3d544764f443)
+
+## Use Case 5: The #marinespecies name determiner 
+
+
+### Set-up: You upload an entire data set and want to perform name matching against the World Register of Marine Species
+
+- World Register of Marine Species **WoRMS**'
+
+  This web service aims to provide freely online the most authoritative list of names of all marine species ever published. In case an exact match is returned from WoRMS, the Use Case ends, else it tries to resolve the genus by using the Global Names parser.
+  
+
+
+- Global Names parser **GNparser**'
+
+  This web service splits scientific names into their semantic elements with an associated meta information. Parsing is indispensable for matching names from different data sources, because it can normalize different lexical variants of names to the same canonical form. In case the genus can be obtained from the parser, this is used for matching against IRMNG, else the Use Case ends.
+
+- Interim Register of Marine and Nonmarine Genera **IRMNG**'
+
+  This web service aims to provide a machine-addressable system that will discriminate marine from non-marine, and extant from fossil taxa in species lists, either on the basis of their genus alone, or (if required) by the full species binomen. For this use case the genus alone is used.
+  
+  
+If a taxon name is available in WoRMS, this Use Case renders its ID, its status (accepted or unaccepted), its accepted name and its environment. In the absence of an exact match, the Use Case uses the GNparser to get the genus from the data. If a genus is available in GNparser, it is used for matching with IRMNG. If a taxon name is available in IRMNG, this Use Case renders its ID, its status (accepted or unaccepted), its accepted name and its environment.
+
+
+For this use case the order of the selected web services is relevant. The 'WoRMS' web service needs to be performed first. Depending on the result the 'GNparser' is executed. Finally, the 'IRMNG' webservice can be performed based on the result of the parser.
+
+
+
+
+### How to
+
+1. Upload File
+
+Upload your data file and select the relevant row and column delimiter and decimal symbol. Select the data format: OBIS scheme for 'Check OBIS file' and LifeWatch data format for 'Data format validation', 'Taxon match' and 'Show on map'. Click on 'Next'. 
+
+
+![File upload](https://github.com/lifewatch/elab-documentation/assets/144227108/a7186c42-fa7d-4d0c-b0fe-11045ff092a9)
+
+
+
+
+
+2. Select services
+
+Select the predefined usecases box. Choose Use Case 'the #marinespecies name determiner' which contains 3 services : WoRMS, GNparser and IRMN. Click on 'Select'.
+
+![Select Use Case](https://github.com/lifewatch/elab-documentation/assets/144227108/99fa40f6-e3c6-4cc5-9cf6-f00b2f73444e)
+![Select Use Case](../assets/images/select_use_case.jpg)
+
+
+
+
+
+3. Order and validate selected services
+
+For this use case the order of the selected web services cannot be changed. Click on 'Next'.
+
+![Order and validate](../assets/images/order_and_validate.jpg)
+
+
+
+
+
+
+4. Confirm columns
+
+When you click "Next", you are redirected to the preview screen. Make sure that the column containing the scientific name corresponds with a column name from the pick list. Click 'Confirm'.
+
+*Note: if this step does not work, try on a different browser (Firefox, Google Chrome, ... )*
+
+![File mapping](../assets/images/mapping.jpg)
+
+
+
+
+
+5. Run job
+
+The following message appears:
+
+![Result](https://github.com/lifewatch/elab-documentation/assets/144227108/eb31f8aa-e0a3-4ae9-82e7-ad27457b4dd7)
 
 
 
