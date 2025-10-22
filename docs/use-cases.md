@@ -9,7 +9,6 @@ nav_order: 4
 
 [//]: <> (## Use Case 4: Quality Control of Biodiversity Datasets )
 
-
 [//]: <> (### Set-up: You upload an entire data set and want to perform a series of quality control steps on your data)
 
 [//]: <> (- Dataset formatted in the **OBIS scheme**: choose web service 'Check OBIS file')
